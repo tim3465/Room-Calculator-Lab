@@ -1,0 +1,15 @@
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Labs\Unit 2\ClassRoomCalculator\bin\Debug\net7.0\ClassRoomCalculator.exe
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Labs\Unit 2\ClassRoomCalculator\bin\Debug\net7.0\ClassRoomCalculator.deps.json
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Labs\Unit 2\ClassRoomCalculator\bin\Debug\net7.0\ClassRoomCalculator.runtimeconfig.json
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Labs\Unit 2\ClassRoomCalculator\bin\Debug\net7.0\ClassRoomCalculator.dll
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Labs\Unit 2\ClassRoomCalculator\bin\Debug\net7.0\ClassRoomCalculator.pdb
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Labs\Unit 2\ClassRoomCalculator\obj\Debug\net7.0\ClassRoomCalculator.csproj.AssemblyReference.cache
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Labs\Unit 2\ClassRoomCalculator\obj\Debug\net7.0\ClassRoomCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Labs\Unit 2\ClassRoomCalculator\obj\Debug\net7.0\ClassRoomCalculator.AssemblyInfoInputs.cache
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Labs\Unit 2\ClassRoomCalculator\obj\Debug\net7.0\ClassRoomCalculator.AssemblyInfo.cs
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Labs\Unit 2\ClassRoomCalculator\obj\Debug\net7.0\ClassRoomCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Labs\Unit 2\ClassRoomCalculator\obj\Debug\net7.0\ClassRoomCalculator.dll
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Labs\Unit 2\ClassRoomCalculator\obj\Debug\net7.0\refint\ClassRoomCalculator.dll
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Labs\Unit 2\ClassRoomCalculator\obj\Debug\net7.0\ClassRoomCalculator.pdb
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Labs\Unit 2\ClassRoomCalculator\obj\Debug\net7.0\ClassRoomCalculator.genruntimeconfig.cache
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Labs\Unit 2\ClassRoomCalculator\obj\Debug\net7.0\ref\ClassRoomCalculator.dll
